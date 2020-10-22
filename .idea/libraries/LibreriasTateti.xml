@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="LibreriasTateti">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LibreriasTateti.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/progra3tpoTateti.jar!/" />
+    </SOURCES>
+  </library>
+</component>
